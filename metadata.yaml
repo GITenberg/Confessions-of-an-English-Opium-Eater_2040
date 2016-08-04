@@ -1,0 +1,49 @@
+_repo: Confessions-of-an-English-Opium-Eater_2040
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Quincey, Thomas
+    aliases:
+    - DeQuincey, Thomas
+    - Kvinsi, Tomas de
+    - Quincey, Thomas de
+    - Quincy, Thomas de
+    birthdate: 1785
+    deathdate: 1859
+    gutenberg_agent_id: '797'
+    url: http://www.gutenberg.org/2009/agents/797
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_de_Quincey
+description: "Confessions of an English Opium-Eater (1821) is an autobiographical\
+  \ account written by Thomas De Quincey, about his laudanum (opium and alcohol) addiction\
+  \ and its effect on his life. The Confessions was \"the first major work De Quincey\
+  \ published and the one which won him fame almost overnight...\"\nFirst published\
+  \ anonymously in September and October 1821 in the London Magazine, the Confessions\
+  \ was released in book form in 1822, and again in 1856, in an edition revised by\
+  \ De Quincey.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Gothic Fiction
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2040'
+  wikidata: Q1610128
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'De Quincey, Thomas, 1785-1859'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Drug addicts -- Great Britain -- Biography'
+- !lcsh 'Opium abuse -- England'
+- GITenberg
+title: Confessions of an English Opium-Eater
+url: http://www.gutenberg.org/ebooks/2040
+wikipedia:
+- https://fr.wikipedia.org/wiki/Confessions_d%27un_mangeur_d%27opium_anglais
+- https://en.wikisource.org/wiki/Confessions_of_an_English_Opium-Eater
+- https://cy.wikipedia.org/wiki/Cyffesion_Bwyt%C3%A4wr_Opiwm
+- https://en.wikipedia.org/wiki/Confessions_of_an_English_Opium-Eater
+- https://it.wikipedia.org/wiki/Le_confessioni_di_un_mangiatore_d%27oppio
+- https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D1%8C_%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%87%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0,_%D1%83%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D1%8F%D0%B2%D1%88%D0%B5%D0%B3%D0%BE_%D0%BE%D0%BF%D0%B8%D1%83%D0%BC
+- https://fr.wikisource.org/wiki/Confessions_d%E2%80%99un_mangeur_d%E2%80%99opium
