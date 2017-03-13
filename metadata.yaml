@@ -1,5 +1,8 @@
 _repo: Confessions-of-an-English-Opium-Eater_2040
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: De Quincey, Thomas
@@ -20,6 +23,8 @@ description: "Confessions of an English Opium-Eater (1821) is an autobiographica
   \ anonymously in September and October 1821 in the London Magazine, the Confessions\
   \ was released in book form in 1822, and again in 1856, in an edition revised by\
   \ De Quincey.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2040#Confessions-of-an-English-Opium-Eater
 gutenberg_bookshelf: Gothic Fiction
 gutenberg_issued: '2000-01-01'
 gutenberg_type: Text
